@@ -1,0 +1,15 @@
+Get-ExecutionPolicy
+Set-ExecutionPolicy Unrestricted
+Set-ExecutionPolicy <previous policy setting>
+
+
+
+python manage.py shell
+
+pipenv shell
+
+coverage run manage.py test
+coverage html
+
+npx create-react-app blogapi
+npm start
